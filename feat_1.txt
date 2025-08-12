@@ -6,3 +6,5 @@ this is another feature.
 this is creating more conflict.
 
 there is one more.
+
+there is new one.
